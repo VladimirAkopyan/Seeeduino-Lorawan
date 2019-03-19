@@ -33,7 +33,8 @@ https://mariozwiers.de/2018/04/04/arduino-lmic-library-with-low-power-mode/
 https://github.com/rocketscream/Low-Power
 
 ## Antenas 
-| Antenna Model  | Link | Gain | Type  | Form | Bands | Connector |
-| ---------------| ---- | ---- | ----- | -----|-------| ----------|
-| ANT-PCB8121-FL |[link](https://uk.farnell.com/webapp/wcs/stores/servlet/ProductDisplay?catalogId=15001&langId=44&productSeoURL=rf-solutions&storeId=10151&partNumber=2133450&krypto=8Y%2BQ3CEGuS1osvCczkwFp4hRPmKmItLCfFJZZ8ThPtn6PuD5q%2BOL7DZnbWIQkMDXgAy%2FLvuFS6WkbR9W0neNEQ%3D%3D&ddkey=https%3Aen-GB%2FElement14_United_Kingdom%2Frf-solutions%2Fant-pcb8121-fl%2Fant-pcb-gsm-pentaband-81x21-coax%2Fdp%2F2133450) | 2 Db | Omni Directional 1/2 Wave|  PCB | 800/900/1800/1900/2100MHz| iPex |
+| Antenna Model  | Manufacturer | dBi| Type                     | Form | MHz                      | Connector |
+| ---------------| ------------ | -- | ------------------------ | -----|--------------------------| ----------|
+| ANT-PCB8121-FL |[Rf-Solutions | 2 ?| Omni Directional 1/2 Wave|  PCB | 800/900/1800/1900/2100MHz| iPex      |
+| 105262-0003    | MoLex        | 0.2|                          |Sticky|  868 / 915               | iPex      | 
 
