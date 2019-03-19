@@ -1,10 +1,10 @@
 # ULP - LoraWan
 This repo has examples and setup for off-the-shelf boards that support Ultra Low Power (< 1 ma)
 
-| Board                           | Power  | Cost| CPU   |  Comments | 
-| ------------------------------- | ------ | ----|-------| --------- |
-| Seeeduino-Lorawan               | 100 ma | £37 |SAMD21 | GPS, separate prosessor for Lora in module RHF76-052 | 
-| Adafruit Feather M0 LoRa (RFM95)| 400 ma | £27 |SAMD21 | Soldering required to get Lora and I2C to work       | 
+| Board                           | sleep mA  | Cost| CPU   |  Comments | 
+| ------------------------------- | ---- | ----|-------| --------- |
+| Seeeduino-Lorawan               | 100  | £37 |SAMD21 | GPS, separate prosessor for Lora in module RHF76-052 | 
+| Adafruit Feather M0 LoRa (RFM95)| 400  | £27 |SAMD21 | Soldering required to get Lora and I2C to work       | 
 
 ## Seeeduino-Lorawan
 Firmware and example code to get LoraWan to work
