@@ -55,7 +55,12 @@ https://github.com/rocketscream/Low-Power
 |Barracuda OMB.868.B12F21|Taoglas| 12|Fiberglass Antenna       | Pole | 868                       |N Female|
 
 
-Github References:
+References:
 1. https://www.thethingsnetwork.org/forum/t/the-big-antenna-s11-catalog/15782
 2. https://www.thethingsnetwork.org/forum/t/the-big-and-small-antenna-topic-part-2/15419/161
 3. 
+
+
+Tools:
+https://discussions.flightaware.com/t/n1201sa-n1201sa-antenna-analyzer-discussion/19680/2
+
