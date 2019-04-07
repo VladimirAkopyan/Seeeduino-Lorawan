@@ -36,6 +36,7 @@ https://github.com/rocketscream/Low-Power
 | Antenna Model  | Manufacturer | dBi| Type                    | Form | MHz                       |Contact |
 | ---------------| ------------ | -- | ----------------------- | -----| ------------------------- | ------ |
 | ANT-PCB8121-FL | Rf-Solutions | 2 ?|Omni Directional 1/2 Wave|  PCB | 800/900/1800/1900/2100    | iPex   |
+| ANT-8WHIP3H-SMA| Rf-Solutions | 3  |                         | Whip | 868                       | SMA    |
 | 105262-0003    | MoLex        | 0.2|                         |Sticky|  868/915                  | iPex   |
 |ECHO14/200M/UFL | Siretta      |1.44| ----------------------- | PCB  |800/900/1800/1900/2100/2600| iPex   |
 | ECHO1A         | Siretta      |-1.9|    ¼ wave dipole        | PCB  |800/900/1800/1900/2100/2600| iPex   |
@@ -52,3 +53,9 @@ https://github.com/rocketscream/Low-Power
 |Barracuda OMB.868.08F21|Taoglas| 8  |Fiberglass Antenna       | Pole | 868                       |N Female|
 |Barracuda OMB.868.B10F21|Taoglas| 10|Fiberglass Antenna       | Pole | 868                       |N Female|
 |Barracuda OMB.868.B12F21|Taoglas| 12|Fiberglass Antenna       | Pole | 868                       |N Female|
+
+
+Github References:
+1. https://www.thethingsnetwork.org/forum/t/the-big-antenna-s11-catalog/15782
+2. https://www.thethingsnetwork.org/forum/t/the-big-and-small-antenna-topic-part-2/15419/161
+3. 
