@@ -44,5 +44,7 @@ https://github.com/rocketscream/Low-Power
 | TANGO45        | Siretta      | 2  |                         |Whip  |734-960/1710-2170/2300-2700| iPex  |
 |ISPC.86A.09.0092E | Taoglas    | 5  |                         |Whip  | 868                       | MMCX  |
 | True-MOX       | TrueRC       | 5.4|                         |PCB   | 868                       | SMA   |
-| GP 868 C       | Sirioantenne |5.15| 1/4 λ + 1/2 λ colinear  | Pole | 868                       |N-female|
-| Glass Fiber Antenna| RAK Wireless | 6.0|                         | Pole | 433/570/868/915           | N Male|
+| GP 868 C       | Sirio Antenne|5.15| 1/4 λ + 1/2 λ colinear  | Pole | 868                       |N-female|
+| OMNI 900       | Sirio Antenne|6.0 |                         | Pole | 868-960                   | SMA-male|
+|Aurel 650200599 GP |Aurel Wireless|2.1| Spiky Mast type       | Pole | 868                       | F-Type|
+| Glass Fiber Antenna| RAK Wireless | 6.0|                     | Pole | 433/570/868/915           | N Male|
